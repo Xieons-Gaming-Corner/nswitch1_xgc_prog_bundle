@@ -1,4 +1,5 @@
 # Xieon's Gaming Corner — Nintendo Switch Program Bundle
+[![Discord Widget](https://discord.com/api/guilds/829181609156411463/widget.png?style=banner2)](https://discord.gg/Xieon)
 
 
 > **XGC Release Bundle**
