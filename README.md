@@ -176,7 +176,7 @@ The bundle also includes release-associated source code from:
 
 ## Special Thanks
 
-XGC thanks [@Manu098VM](https://github.com/Manu098vm) for assistance resolving an issue that prevented this version from working correctly.
+XGC thanks [@Manu098VM](https://github.com/Manu098vm) and the dev behind TeraFinder
 
 <img width="616" height="168" alt="Special thanks acknowledgement" src="https://github.com/user-attachments/assets/502b8dd4-9db6-4a26-b550-a5799e1b8174" />
 
