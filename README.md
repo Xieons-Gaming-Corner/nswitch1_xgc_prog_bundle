@@ -31,7 +31,7 @@ This repository is based on the official [Atmosphère](https://github.com/Atmosp
 
 ### Related XGC Releases
 
-- [Atmosphère 1.12.0 historical mirror](https://github.com/Xieons-Gaming-Corner/ATMOSPHERE_1.12.0/releases)
+- [Atmosphere 1.12.2 historical mirror](https://github.com/Xieons-Gaming-Corner/ATMOSPHERE_1.12.2/releases)
 - [Tera Finder — `10_14_2026_mirror`](https://github.com/Xieons-Gaming-Corner/Tera-Finder/releases/tag/10_14_2026_mirror)
 
 ---
@@ -42,7 +42,7 @@ This bundle brings together Switch-side software, desktop utilities, and release
 
 | Project | Bundled version / reference | Role | Source |
 |---|---|---|---|
-| Atmosphère | 1.12.0 | Nintendo Switch custom firmware | [Official release](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.12.0) |
+| Atmosphère | 1.12.2 | Nintendo Switch custom firmware | [Official Atmosphère 1.12.2 release](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.12.2) |
 | sys-botbase | 2.5 | Switch-side communication module | [Official release](https://github.com/olliz0r/sys-botbase/releases/tag/v2.5) |
 | TegraRcmGUI | Latest bundled release | Windows RCM payload injection utility | [Official releases](https://github.com/eliboa/TegraRcmGUI/releases) |
 | Tera Finder | `10_14_2026_mirror` | Desktop application; release-associated source code included | [XGC mirror release](https://github.com/Xieons-Gaming-Corner/Tera-Finder/releases/tag/10_14_2026_mirror) |
@@ -61,8 +61,8 @@ Source: [Official Atmosphère 1.12.2 release](https://github.com/Atmosphere-NX/A
 
 | File | Purpose | Installation |
 |---|---|---|
-| `fusee.bin` | Atmosphère payload for compatible RCM injection workflows | Select this file in TegraRcmGUI before injecting |
-| `atmosphere-1.12.0-master-28d6a2e11+hbl-2.4.5+hbmenu-3.6.1.zip` | Atmosphère SD-card package | Extract its contents to the root of the SD card |
+| `/fusee.bin` | Atmosphère payload for compatible RCM injection workflows | Select this file in TegraRcmGUI before injecting |
+| `/atmosphere-1.12.2-master-4e3f37038+hbl-2.4.5+hbmenu-3.6.1.zip` | Atmosphère SD-card package | Extract its contents to the root of the SD card |
 
 ### sys-botbase v2.5
 
