@@ -55,9 +55,9 @@ This bundle brings together Switch-side software, desktop utilities, and release
 
 ## Included Files
 
-### Atmosphère 1.12.0
+### Atmosphère 1.12.2
 
-Source: [Official Atmosphère 1.12.0 release](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.12.0)
+Source: [Official Atmosphère 1.12.2 release](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.12.2)
 
 | File | Purpose | Installation |
 |---|---|---|
